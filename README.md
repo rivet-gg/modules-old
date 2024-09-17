@@ -1,3 +1,3 @@
 # Rivet Modules
 
-Repository Moved [Here](https://github.com/rivet-gg/modules)
+Moved to [https://github.com/rivet-gg/modules](https://github.com/rivet-gg/modules)
